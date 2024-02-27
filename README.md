@@ -22,3 +22,6 @@
 4. Install NAudio
 5. Install VRCOscLib
 6. And Build !
+
+### 💙 Credits
+The base code was made by [Biscui](https://github.com/BiscuiTheHobkin), I just remake the codes, with somes optimisation, on the latest .net framework
